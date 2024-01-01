@@ -1,0 +1,29 @@
+﻿生成启动时间为 2024/1/2 7:33:07。
+     1>项目“C:\Users\AHRI\Desktop\UI\UI\UI.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\ahri\desktop\ui\ui\ui.h(224): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+     1>c:\users\ahri\desktop\ui\ui\ui.h(363): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+     1>c:\users\ahri\desktop\ui\ui\ui.h(415): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+     1>c:\users\ahri\desktop\ui\ui\ui.h(712): warning C4018: “>”: 有符号/无符号不匹配
+     1>c:\users\ahri\desktop\ui\ui\ui.h(771): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+     1>c:\users\ahri\desktop\ui\ui\ui.h(785): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\ahri\desktop\ui\ui\ui.h(795): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+     1>c:\users\ahri\desktop\ui\ui\ui.h(849): warning C4018: “>”: 有符号/无符号不匹配
+     1>c:\users\ahri\desktop\ui\ui\ui.h(978): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\ahri\desktop\ui\ui\ui.h(1048): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>c:\users\ahri\desktop\ui\ui\ui.h(1079): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>c:\users\ahri\desktop\ui\ui\ui.h(1115): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>c:\users\ahri\desktop\ui\ui\ui.h(1145): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\AHRI\Desktop\UI\Release\UI.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\AHRI\Desktop\UI\Release\UI.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\AHRI\Desktop\UI\Release\UI.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         正在生成代码
+     1>c:\users\ahri\desktop\ui\ui\ui.h(254): warning C4715: “io::WndProc”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         UI.vcxproj -> C:\Users\AHRI\Desktop\UI\Release\UI.exe
+     1>已完成生成项目“C:\Users\AHRI\Desktop\UI\UI\UI.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.00
